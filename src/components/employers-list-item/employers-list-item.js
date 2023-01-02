@@ -3,6 +3,7 @@ import { Component } from "react";
 import "./employers-list-item.css";
 
 class EmployeesListItem extends Component {
+	
   constructor(props) {
     super(props);
     this.state = {
